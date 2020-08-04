@@ -17,9 +17,9 @@ repositories ranging from my personnal work to my portfolio projects and
 School Projects.
 
 ### Connect with me:
-[<img align="left" alt"leosmith.xyz" width="22px" src="https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png" />][website]
-[<img align="left" alt"LinkedIn" width="22px" src="https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png" />][linkedin]
-[<img align="left" alt"TryHackMe" width="22px" src="https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png" />][tryhackme]
+[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
+[![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]
+[![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

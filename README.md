@@ -1,6 +1,6 @@
 ### What's up! I'm Leo - aka [p4p1][website] :penguin:
 
-## I'm a Cyber Security researcher, Developer and Student!
+## :name_badge: I'm a Cyber Security researcher, Developer and Student!
 - :peach: I'm currently working on linux kernel modules and Capture The Flags
 - :lemon: I'm currently learning pentesting preparing for my OSCP
 - :tangerine: I'm looking to collaborate on Open Source projects.
@@ -8,13 +8,9 @@
 - :watermelon: You can reach me via email
 - :meat_on_bone: Fun fact: I love linux \o/
 
-## Description
-At the age of 13, I created my first ever computer virus on a Windows XP and
-since then have been obsessed with to Security Research and Software Development.
-I am currently working on getting my OSCP and Pentest+ to be an expert in the
-field on Information Security and pen-testing. On this github I have a lot of
-repositories ranging from my personnal work to my portfolio projects and
-School Projects.
+## :notebook: Latest blog posts
+<!-- BLOG_POST_LIST: START -->
+<!-- BLOG_POST_LIST: END -->
 
 ### Connect with me:
 [![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]     [![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]    [![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
@@ -32,6 +28,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Description
+At the age of 13, I created my first ever computer virus on a Windows XP and
+since then have been obsessed with to Security Research and Software Development.
+I am currently working on getting my OSCP and Pentest+ to be an expert in the
+field on Information Security and pen-testing. On this github I have a lot of
+repositories ranging from my personnal work to my portfolio projects and
+School Projects.
 -->
 
 [website]: https://leosmith.xyz

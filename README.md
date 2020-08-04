@@ -1,9 +1,25 @@
-## :lemon: What's up!
+### What's up! I'm Leo - aka [p4p1][website] :penguin:
 
-At the age of 13, I created my first ever computer virus on a Windows XP and since then have been obsessed with to Security Research and Software Development. I am currently working on getting my OSCP and Pentest+ to be an expert in the field on Information Security and pen-testing. On this github I have a lot of repositories ranging from my personnal work to my portfolio projects and School Projects.
+## I'm a Cyber Security researcher, Developer and Student!
+- :peach: I'm currently working on linux kernel modules and Capture The Flags
+- :lemon: I'm currently learning pentesting preparing for my OSCP
+- :tangerine: I'm looking to collaborate on Open Source projects.
+- :tomato: I'm looking for help with understanding the linux kernel.
+- :watermelon: You can reach me via email
+- :meat_on_bone: Fun fact: I love linux \o/
 
-### :peach: Links
+## Description
+At the age of 13, I created my first ever computer virus on a Windows XP and
+since then have been obsessed with to Security Research and Software Development.
+I am currently working on getting my OSCP and Pentest+ to be an expert in the
+field on Information Security and pen-testing. On this github I have a lot of
+repositories ranging from my personnal work to my portfolio projects and
+School Projects.
+
+### Connect with me:
 [My website](https://leosmith.xyz/)
+[My LinkedIn](https://www.linkedin.com/in/leo-smith/)
+[My Try Hack Me](https://tryhackme.com/p/p4p1)
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

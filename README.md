@@ -17,8 +17,8 @@ repositories ranging from my personnal work to my portfolio projects and
 School Projects.
 
 ### Connect with me:
-[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
-[![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]
+[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]     
+[![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]    
 [![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
 
 <!--

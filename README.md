@@ -1,4 +1,9 @@
-### Hi there 👋
+## What's up!
+
+At the age of 13, I created my first ever computer virus on a Windows XP and since then have been obsessed with to Security Research and Software Development. I am currently working on getting my OSCP and Pentest+ to be an expert in the field on Information Security and pen-testing. On this github I have a lot of repositories ranging from my personnal work to my portfolio projects and School Projects.
+
+### Links
+[My website](https://leosmith.xyz/)
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,8 +9,8 @@
 - :meat_on_bone: Fun fact: I love linux \o/
 
 ## :notebook: Latest blog posts
-<!-- BLOG_POST_LIST:START -->
-<!-- BLOG_POST_LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST::END -->
 
 ### Connect with me:
 [![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]     [![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]    [![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]

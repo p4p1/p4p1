@@ -10,6 +10,11 @@
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cracking with radare2](https://leosmith.xyz/blog/cracking-with-radare.html)
+- [Timetravel Personal Website](https://leosmith.xyz/blog/timetravel-website.html)
+- [Rice/Config update](https://leosmith.xyz/rice/index.html)
+- [Anoymous TryhackMe](https://leosmith.xyz/blog/anonymous-tryhackme-writeup.html)
+- [Convert my video tryhackme](https://leosmith.xyz/blog/convertmyvideo-tryhackme-writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:

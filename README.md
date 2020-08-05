@@ -17,8 +17,14 @@
 - [Convert my video tryhackme](https://leosmith.xyz/blog/convertmyvideo-tryhackme-writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with me:
-[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]     [![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]    [![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
+## :satellite: Connect with me:
+[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
+[![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]
+[![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
+
+---
+
+![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=p4p1&show_icons=true&theme=dracula)
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

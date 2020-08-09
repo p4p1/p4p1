@@ -10,11 +10,11 @@
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Defcon Safe Mode CTF](https://leosmith.xyz/blog/defcon-safe-mode-ctf.html)
 - [lfi TryHackMe](https://leosmith.xyz/blog/lfi-tryhackme.html)
 - [Cracking with radare2](https://leosmith.xyz/blog/cracking-with-radare.html)
 - [Timetravel Personal Website](https://leosmith.xyz/blog/timetravel-website.html)
 - [Rice/Config update](https://leosmith.xyz/rice/index.html)
-- [Anoymous TryhackMe](https://leosmith.xyz/blog/anonymous-tryhackme-writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## :satellite: Connect with me

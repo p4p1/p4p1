@@ -18,9 +18,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## :satellite: Connect with me
-[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
 [![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]
 [![twitter](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/twitter.png)][twitter]
+[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
 [![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
 
 ---

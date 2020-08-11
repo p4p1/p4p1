@@ -2,11 +2,11 @@
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
 - :peach: I'm currently working on linux kernel modules and Capture The Flags
-- :lemon: I'm currently learning pentesting preparing for my OSCP
+- :lemon: I'm currently learning pentesting preparing for the eJPT, Security+, Pentest+ and OSCP
 - :tangerine: I'm looking to collaborate on Open Source projects.
 - :tomato: I'm looking for help with understanding the linux kernel.
-- :watermelon: You can reach me via email
-- :meat_on_bone: Fun fact: I love linux \o/
+- :watermelon: You can reach me via email or twitter
+- :meat_on_bone: Fun fact, I love linux \o/
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->

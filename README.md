@@ -25,6 +25,8 @@
 
 ---
 
+[![Try Hack Me stats](https://tryhackme-badges.s3.amazonaws.com/p4p1.png)][tryhackme]
+
 ![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=p4p1&show_icons=true&theme=dracula)
 
 <!--

@@ -10,11 +10,11 @@
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GamingServer Tryhackme](https://leosmith.xyz/blog/gamingserver-tryhackme.html)
 - [Building a testing environment](https://leosmith.xyz/blog/building-testing-machine.html)
 - [Defcon Safe Mode CTF](https://leosmith.xyz/blog/defcon-safe-mode-ctf.html)
 - [lfi TryHackMe](https://leosmith.xyz/blog/lfi-tryhackme.html)
 - [Cracking with radare2](https://leosmith.xyz/blog/cracking-with-radare.html)
-- [Timetravel Personal Website](https://leosmith.xyz/blog/timetravel-website.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## :satellite: Connect with me

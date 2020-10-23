@@ -1,5 +1,7 @@
 ### What's up! I'm Leo - aka [p4p1][website] :penguin:
 
+[![HitCount](http://hits.dwyl.com/p4p1/p4p1.svg)](http://hits.dwyl.com/p4p1/p4p1)
+
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
 - :peach: I'm currently working on linux kernel modules and Capture The Flags
 - :lemon: I'm currently learning pentesting preparing for the eJPT, Security+, Pentest+ and OSCP

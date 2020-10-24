@@ -12,11 +12,11 @@
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MrRobot tryhackme writeup](https://leosmith.xyz/blog/mrrobot-tryhackme-writeup.html)
 - [Throwback TryHackMe Writeup](https://leosmith.xyz/blog/throwback-tryhackme-writeup.html)
 - [GamingServer Tryhackme](https://leosmith.xyz/blog/gamingserver-tryhackme.html)
 - [Building a testing environment](https://leosmith.xyz/blog/building-testing-machine.html)
 - [Defcon Safe Mode CTF](https://leosmith.xyz/blog/defcon-safe-mode-ctf.html)
-- [lfi TryHackMe](https://leosmith.xyz/blog/lfi-tryhackme.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## :satellite: Connect with me

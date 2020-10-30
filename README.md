@@ -6,7 +6,7 @@
 - :peach: I'm currently working on linux kernel modules and Capture The Flags
 - :lemon: I'm currently learning pentesting preparing for the OSCP
 - :tangerine: I'm looking to collaborate on Open Source projects.
-- :tomato: I'm looking for help with understanding the linux kernel.
+- :tomato: I'm looking for help on my latest project xss_bomb.
 - :watermelon: You can reach me via email or twitter
 - :meat_on_bone: Fun fact, I love linux \o/
 

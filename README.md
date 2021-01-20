@@ -10,11 +10,11 @@
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a docker workstation](https://leosmith.xyz/blog/docker-workstation.html)
 - [Hunting IDOR during recon](https://leosmith.xyz/blog/hunting-idor-recon.html)
 - [MrRobot tryhackme writeup](https://leosmith.xyz/blog/mrrobot-tryhackme-writeup.html)
 - [Throwback TryHackMe Writeup](https://leosmith.xyz/blog/throwback-tryhackme-writeup.html)
 - [GamingServer Tryhackme](https://leosmith.xyz/blog/gamingserver-tryhackme.html)
-- [Building a testing environment](https://leosmith.xyz/blog/building-testing-machine.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## :satellite: Connect with me

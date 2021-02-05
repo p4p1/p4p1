@@ -10,11 +10,11 @@
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting into Active Directory](https://leosmith.xyz/blog/getting-into-ad.html)
 - [OWASP TOP 10 TryHackMe Writeup](https://leosmith.xyz/blog/owasptop10-tryhackme-writeup.html)
 - [Creating a docker workstation](https://leosmith.xyz/blog/docker-workstation.html)
 - [Hunting IDOR during recon](https://leosmith.xyz/blog/hunting-idor-recon.html)
 - [MrRobot tryhackme writeup](https://leosmith.xyz/blog/mrrobot-tryhackme-writeup.html)
-- [Throwback TryHackMe Writeup](https://leosmith.xyz/blog/throwback-tryhackme-writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## :satellite: Connect with me

@@ -3,11 +3,11 @@
 Let's hope my blind XSS description payload hists somewhere.
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
-- :peach: I'm currently working on linux kernel modules and Capture The Flags
-- :lemon: I'm currently learning pentesting
+- :peach: I'm currently working on linux kernel modules and Web Application pentest
+- :lemon: I'm currently learning red team stuff
 - :tangerine: I'm looking to collaborate on Open Source projects
 - :tomato: I'm looking for help on my latest project xss_bomb
-- :watermelon: You can reach me via email or twitter
+- :watermelon: You can reach me via email or linkedin
 - :meat_on_bone: Fun fact, I love linux \o/
 
 ## :notebook: Latest blog posts

@@ -1,6 +1,6 @@
 ### What's up! I'm Leo - aka [p4p1][website] :penguin:
 
-Let's hope my blind XSS description payload hists somewhere.
+Let's hope my blind XSS description payload hits somewhere.
 
 ## :name_badge: I'm a Cyber Security researcher, Developer and Student!
 - :peach: I'm currently working on linux kernel modules and Web Application pentest

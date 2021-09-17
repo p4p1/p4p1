@@ -12,11 +12,11 @@ Let's hope my blind XSS description payload hits somewhere.
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn OSINT](https://leosmith.xyz/blog/linkedin-osint.html)
 - [XSS Bomb](https://leosmith.xyz/blog/xss-bomb.html)
 - [My view on infosec certs](https://leosmith.xyz/blog/certs-infosec.html)
 - [wreath report](https://leosmith.xyz/blog/wreath-report.html)
 - [Getting into Active Directory](https://leosmith.xyz/blog/getting-into-ad.html)
-- [OWASP TOP 10 TryHackMe Writeup](https://leosmith.xyz/blog/owasptop10-tryhackme-writeup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## :satellite: Connect with me

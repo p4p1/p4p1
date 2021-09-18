@@ -2,7 +2,7 @@
 
 Let's hope my blind XSS description payload hits somewhere.
 
-## :name_badge: I'm a Cyber Security researcher, Developer and Student!
+## :name_badge: I'm a Cyber Security researcher and Developer!
 - :peach: I'm currently working on linux kernel modules and Web Application pentest
 - :lemon: I'm currently learning red team stuff
 - :tangerine: I'm looking to collaborate on Open Source projects

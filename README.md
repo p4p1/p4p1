@@ -1,6 +1,7 @@
-### What's up! I'm Leo - aka [p4p1][website] :penguin:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)
 
-Let's hope my blind XSS description payload hits somewhere.
+
+Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :name_badge: I'm a Cyber Security researcher and Developer!
 - :peach: I'm currently working on linux kernel modules and Web Application pentest

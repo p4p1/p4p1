@@ -4,9 +4,10 @@
 Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :name_badge: I'm a Cyber Security researcher and Developer!
-- :peach: I'm currently working on linux kernel modules and Web Application pentest
-- :lemon: I'm currently learning red team stuff
-- :tangerine: I'm looking to collaborate on Open Source projects
+<img align="right" src="https://media2.giphy.com/media/nDfwBfVsvYhPi/giphy.gif?cid=ecf05e47ywsgclvvh7szmca4tujz9odsf7dkd6hrf3oamdry&rid=giphy.gif&ct=g" />
+
+- :peach: I'm currently learning linux kernel modules and Web Application pentest
+- :tangerine: I often lose my temper doing bug bounty
 - :tomato: I'm looking for help on my latest project xss_bomb
 - :watermelon: You can reach me via email or linkedin
 - :meat_on_bone: Fun fact, I love linux \o/
@@ -20,15 +21,9 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - [My view on infosec certs](https://leosmith.xyz/blog/certs-infosec.html)
 <!-- BLOG-POST-LIST:END -->
 
-## :satellite: Connect with me
-[![linkedin](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/linkedin.png)][linkedin]
-[![twitter](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/twitter.png)][twitter]
-[![website](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/globe.png)][website]
-[![tryhackme](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/tryhackme.png)][tryhackme]
-
 ---
 
-![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=p4p1&show_icons=true&theme=dracula)
+[![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=p4p1&show_icons=true&theme=dracula)][website]
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

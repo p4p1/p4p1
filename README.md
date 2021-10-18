@@ -23,6 +23,10 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ---
 
+[![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/p4p1.png)][tryhackme]
+[![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]
+
+
 [![p4p1's github stats](https://github-readme-stats.vercel.app/api?username=p4p1&show_icons=true&theme=dracula)][website]
 
 <!--
@@ -52,3 +56,4 @@ School Projects.
 [linkedin]: https://www.linkedin.com/in/leo-smith/
 [tryhackme]: https://tryhackme.com/p/p4p1
 [twitter]: https://twitter.com/p4p1_ls
+[hackthebox]: https://www.hackthebox.eu/home/users/profile/311399

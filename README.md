@@ -23,7 +23,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ---
 
-[![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/p4p1.png)][tryhackme]
+[![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)][tryhackme]
 [![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]
 
 

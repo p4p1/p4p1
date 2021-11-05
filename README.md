@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dwm tint2 support](https://leosmith.xyz/blog/dwm-tint2-support.html)
 - [Github TryHackMe Badge Action](https://leosmith.xyz/blog/github-tryhackme-action.html)
 - [IDE WriteUp - TryHackMe](https://leosmith.xyz/blog/ide-tryhackme.html)
 - [WebSocket Man In The Middle](https://leosmith.xyz/blog/websocket-mitm.html)
 - [How to brake into an operating system](https://leosmith.xyz/blog/breaking-in-os.html)
-- [[XSS Bomb] Social Network Update](https://leosmith.xyz/blog/xss-bomb-devlog1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

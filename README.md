@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VimScript Automation](https://leosmith.xyz/blog/vim-script-auto-edit.html)
 - [Create arch iso](https://leosmith.xyz/blog/create-arch-iso.html)
 - [Understanding Illegal Streaming](https://leosmith.xyz/blog/understanding-illegal-streaming.html)
 - [Overemployed Rubber Ducky](https://leosmith.xyz/blog/rubber-ducky-lazy-work.html)
 - [Lockpicking intro](https://leosmith.xyz/blog/lockpicking-intro.html)
-- [Wifi Pineapple Evil WPA Attack](https://leosmith.xyz/blog/wifi-pineapple-evilap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

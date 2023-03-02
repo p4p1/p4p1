@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Zero Rubber Ducky Parser](https://leosmith.xyz/blog/flipper-zero-ducky-parser.html)
 - [Android network recon automation](https://leosmith.xyz/blog/android-tasker-recon.html)
 - [Wifi Pineapple Karma Attack](https://leosmith.xyz/blog/wifi-pineapple-karma.html)
 - [Organisation In CyberSecurity](https://leosmith.xyz/blog/organisation-cybersecurity.html)
 - [LinkedIn Marketing Github Workflow](https://leosmith.xyz/blog/linkedin-marketing-workflow.html)
-- [gophish setup tutorial](https://leosmith.xyz/blog/gophish-setup-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -1,1 +1,1 @@
-Android network recon automation
+Flipper Zero Rubber Ducky Parser

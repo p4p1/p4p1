@@ -9,7 +9,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - :peach: I'm currently learning linux kernel modules and Web Application pentest
 - :tangerine: I often lose my temper doing bug bounty
 - :tomato: I'm looking for help on my latest project xss_bomb
-- :watermelon: You can reach me via email (contact@leosmith.wtf) or linkedin
+- :watermelon: You can reach me via linkedin
 - :meat_on_bone: Fun fact, I love linux \o/
 
 ## :notebook: Latest blog posts

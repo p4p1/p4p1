@@ -14,7 +14,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OSINT for non nerds](https://leosmith.xyz/blog/osint-for-non-technicals.html)
+- [OSINT for non nerds](https://leosmith.wtf/blog/osint-for-non-technicals.html)
 - [Flipper Zero Rubber Ducky Parser](https://leosmith.wtf/blog/flipper-zero-ducky-parser.html)
 - [Android network recon automation](https://leosmith.wtf/blog/android-tasker-recon.html)
 - [Wifi Pineapple Karma Attack](https://leosmith.wtf/blog/wifi-pineapple-karma.html)

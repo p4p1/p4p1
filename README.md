@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [p3ng0s release](https://leosmith.wtf/blog/p3ng0s-release.html)
 - [Havoc C2 client python API extensions](https://leosmith.wtf/blog/havoc-c2-pythonapi.html)
 - [Release p3ng0s](https://leosmith.wtf/rice/)
 - [burp-http-to-notion Extension Devlog](https://leosmith.wtf/blog/burp-suite-to-notion.html)
 - [OSINT for non nerds](https://leosmith.wtf/blog/osint-for-non-technicals.html)
-- [Flipper Zero Rubber Ducky Parser](https://leosmith.wtf/blog/flipper-zero-ducky-parser.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

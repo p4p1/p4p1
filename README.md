@@ -27,7 +27,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 [![p4p1's hackthebox stats](http://www.hackthebox.eu/badge/image/311399)][hackthebox]
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4p1)
+![p4p1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4p1&show_icons=true&theme=synthwave&card_width=750)
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,16 +9,16 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - :peach: I'm currently learning linux kernel modules and Web Application pentest
 - :tangerine: I often lose my temper doing bug bounty
 - :tomato: I'm looking for help on my latest project xss_bomb
-- :watermelon: You can reach me via email (contact@leosmith.xyz) or linkedin
+- :watermelon: You can reach me via linkedin
 - :meat_on_bone: Fun fact, I love linux \o/
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [gophish setup tutorial](https://leosmith.xyz/blog/gophish-setup-tutorial.html)
-- [VimScript Automation](https://leosmith.xyz/blog/vim-script-auto-edit.html)
-- [Create arch iso](https://leosmith.xyz/blog/create-arch-iso.html)
-- [Understanding Illegal Streaming](https://leosmith.xyz/blog/understanding-illegal-streaming.html)
-- [Overemployed Rubber Ducky](https://leosmith.xyz/blog/rubber-ducky-lazy-work.html)
+- [p3ng0s release](https://leosmith.wtf/blog/p3ng0s-release.html)
+- [Havoc C2 client python API extensions](https://leosmith.wtf/blog/havoc-c2-pythonapi.html)
+- [Release p3ng0s](https://leosmith.wtf/rice/)
+- [burp-http-to-notion Extension Devlog](https://leosmith.wtf/blog/burp-suite-to-notion.html)
+- [OSINT for non nerds](https://leosmith.wtf/blog/osint-for-non-technicals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

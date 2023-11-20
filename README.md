@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Watchdogs IRL with ubuntu touch](https://leosmith.wtf/blog/ubuntu-touch.html)
 - [Havoc Widget and Dialog Update](https://leosmith.wtf/blog/havoc-again.html)
 - [Havoc python API GUI advancements](https://leosmith.wtf/blog/havoc-gui-advancements.html)
 - [HavocUI Python API Widget Class](https://leosmith.wtf/blog/havocui-widget-python.html)
 - [XSS Bomb front-end update](https://leosmith.wtf/blog/xss-bomb-front-end.html)
-- [p3ng0s release](https://leosmith.wtf/blog/p3ng0s-release.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -23,9 +23,13 @@ jobs:
     - name: Parse RSS Feed
       id: parse_rss
       run: |
-        LATEST_TITLE=$(xmllint --xpath 'string(/rss/channel/item[1]/title)' rss_feed.xml)
-        LATEST_LINK=$(xmllint --xpath 'string(/rss/channel/item[1]/link)' rss_feed.xml)
-        LATEST_DESCRIPTION=$(xmllint --xpath 'string(/rss/channel/item[1]/description)' rss_feed.xml)
+        LATEST_ITEM=$(grep -oP '<item>.*?</item>' rss_feed.xml | head -n 1)
+
+        # Extract title, link, and description using Bash pattern matching
+        [[ $LATEST_ITEM =~ '<title>(.*?)<\/title>' ]] && LATEST_TITLE="${BASH_REMATCH[1]}"
+        [[ $LATEST_ITEM =~ '<link>(.*?)<\/link>' ]] && LATEST_LINK="${BASH_REMATCH[1]}"
+        [[ $LATEST_ITEM =~ '<description>(.*?)<\/description>' ]] && LATEST_DESCRIPTION="${BASH_REMATCH[1]}"
+
         echo "::set-output name=title::$LATEST_TITLE"
         echo "::set-output name=link::$LATEST_LINK"
         echo "::set-output name=description::$LATEST_DESCRIPTION"

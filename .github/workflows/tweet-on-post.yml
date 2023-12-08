@@ -1,0 +1,49 @@
+name: Tweet RSS Feed Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  tweet:
+    name: Tweet when new blog post is found
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Get RSS Feed
+      run: |
+        RSS_FEED_URL="https://leosmith.wtf/rss/blog.xml"
+        RSS_FEED_CONTENT=$(curl -s $RSS_FEED_URL)
+        echo "$RSS_FEED_CONTENT" > rss_feed.xml
+
+    - name: Parse RSS Feed
+      id: parse_rss
+      run: |
+        LATEST_TITLE=$(xmllint --xpath 'string(/rss/channel/item[1]/title)' rss_feed.xml)
+        LATEST_LINK=$(xmllint --xpath 'string(/rss/channel/item[1]/link)' rss_feed.xml)
+        LATEST_DESCRIPTION=$(xmllint --xpath 'string(/rss/channel/item[1]/description)' rss_feed.xml)
+        echo "::set-output name=title::$LATEST_TITLE"
+        echo "::set-output name=link::$LATEST_LINK"
+        echo "::set-output name=description::$LATEST_DESCRIPTION"
+
+    - name: Check for Update and Tweet
+      run: |
+        PREVIOUS_STATE=$(cat previous_state.txt)
+        CURRENT_STATE="${{ steps.parse_rss.outputs.link }}"
+        # Check if there is an update
+        if [ "$PREVIOUS_STATE" != "$CURRENT_STATE" ]; then
+          echo "Updates found!"
+          # Update the previous state
+          echo "$CURRENT_STATE" > previous_state.txt
+          # Tweet the content
+          TITLE="${{ steps.parse_rss.outputs.title }}"
+          LINK="${{ steps.parse_rss.outputs.link }}"
+          DESCRIPTION="${{ steps.parse_rss.outputs.description }}"
+          echo "New Blog Post: $TITLE - $DESCRIPTION $LINK"
+        else
+          echo "No updates."
+        fi
+

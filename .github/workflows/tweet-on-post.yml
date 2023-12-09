@@ -31,9 +31,9 @@ jobs:
         [[ $LATEST_ITEM =~ '<description>(.*?)<\/description>' ]] && LATEST_DESCRIPTION="${BASH_REMATCH[1]}"
 
          # Set outputs using echo statements
-        echo "title=$LATEST_TITLE" >> $GITHUB_ENV
-        echo "link=$LATEST_LINK" >> $GITHUB_ENV
-        echo "description=$LATEST_DESCRIPTION" >> $GITHUB_ENV
+        echo "title=$LATEST_TITLE" >> $GITHUB_OUTPUT
+        echo "link=$LATEST_LINK" >> $GITHUB_OUTPUT
+        echo "description=$LATEST_DESCRIPTION" >> $GITHUB_OUTPUT
 
     - name: Check for Update and Tweet
       run: |

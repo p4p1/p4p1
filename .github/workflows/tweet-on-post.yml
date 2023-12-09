@@ -46,6 +46,6 @@ jobs:
           echo "PREVIOUS_STATE=${LATEST_LINK}" >> $GITHUB_ENV
 
           # Tweet the content
-          echo "New Blog Post: $LATEST_TITLE - $LATEST_DESCRIPTION $LATEST_LINK" | \
+          echo "New Blog Post: $LATEST_TITLE - $LATEST_DESCRIPTION $LATEST_LINK"
 
 

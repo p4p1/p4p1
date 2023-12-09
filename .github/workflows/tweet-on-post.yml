@@ -14,50 +14,38 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Get RSS Feed
+    - name: Get XML and post
       run: |
         RSS_FEED_URL="https://leosmith.wtf/rss/blog.xml"
         RSS_FEED_CONTENT=$(curl -s $RSS_FEED_URL)
-        echo "$RSS_FEED_CONTENT" > rss_feed.xml
 
-    - name: Parse RSS Feed
-      id: parse_rss
-      run: |
-        LATEST_ITEM=$(grep -oP '<item>.*?</item>' rss_feed.xml | head -n 1)
+        # Extract the latest item from the RSS feed
+        LATEST_ITEM=$(grep -oP '<item>.*?</item>' <<< "$RSS_FEED_CONTENT" | head -n 1)
 
         # Extract title, link, and description using Bash pattern matching
         [[ $LATEST_ITEM =~ '<title>(.*?)<\/title>' ]] && LATEST_TITLE="${BASH_REMATCH[1]}"
         [[ $LATEST_ITEM =~ '<link>(.*?)<\/link>' ]] && LATEST_LINK="${BASH_REMATCH[1]}"
         [[ $LATEST_ITEM =~ '<description>(.*?)<\/description>' ]] && LATEST_DESCRIPTION="${BASH_REMATCH[1]}"
 
-        echo "title=$LATEST_TITLE"
-        echo "link=$LATEST_LINK"
-        echo "description=$LATEST_DESCRIPTION"
-         # Set outputs using echo statements
-        echo "TESTINGNGNGNGNGN" >> $GITHUB_OUTPUT
-        echo "title=$LATEST_TITLE" >> $GITHUB_OUTPUT
-        echo "link=$LATEST_LINK" >> $GITHUB_OUTPUT
-        echo "description=$LATEST_DESCRIPTION" >> $GITHUB_OUTPUT
+        # Set environment variables directly
+        echo "LATEST_TITLE=${LATEST_TITLE}" >> $GITHUB_ENV
+        echo "LATEST_LINK=${LATEST_LINK}" >> $GITHUB_ENV
+        echo "LATEST_DESCRIPTION=${LATEST_DESCRIPTION}" >> $GITHUB_ENV
 
-    - name: Check for Update and Tweet
-      run: |
-        cat $GITHUB_OUTPUT
-        [ ! -e previous_state.txt ] && echo "file is not there..." && touch previous_state.txt
-        PREVIOUS_STATE=$(cat previous_state.txt)
-        CURRENT_STATE="${LINK}"
+        # Check if the previous_state environment variable exists
+        if [ -z "$PREVIOUS_STATE" ]; then
+          # If not, initialize it with an empty value
+          echo "PREVIOUS_STATE=" >> $GITHUB_ENV
+        fi
 
         # Check if there is an update
-        if [[ "$PREVIOUS_STATE" != "$CURRENT_STATE" ]]; then
+        if [ "$PREVIOUS_STATE" != "$LATEST_LINK" ]; then
           echo "Updates found!"
-          # Update the previous state
-          echo "$CURRENT_STATE" > previous_state.txt
-          # Tweet the content
-          TITLE="${TITLE}"
-          LINK="${LINK}"
-          DESCRIPTION="${DESCRIPTION}"
 
-          echo "New Blog Post: $TITLE - $DESCRIPTION $LINK"
-        else
-          echo "No updates."
-        fi
+          # Update the previous state
+          echo "PREVIOUS_STATE=${LATEST_LINK}" >> $GITHUB_ENV
+
+          # Tweet the content
+          echo "New Blog Post: $LATEST_TITLE - $LATEST_DESCRIPTION $LATEST_LINK" | \
+
 

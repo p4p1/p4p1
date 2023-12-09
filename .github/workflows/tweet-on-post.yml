@@ -30,24 +30,27 @@ jobs:
         [[ $LATEST_ITEM =~ '<link>(.*?)<\/link>' ]] && LATEST_LINK="${BASH_REMATCH[1]}"
         [[ $LATEST_ITEM =~ '<description>(.*?)<\/description>' ]] && LATEST_DESCRIPTION="${BASH_REMATCH[1]}"
 
-        echo "::set-output name=title::$LATEST_TITLE"
-        echo "::set-output name=link::$LATEST_LINK"
-        echo "::set-output name=description::$LATEST_DESCRIPTION"
+         # Set outputs using echo statements
+        echo "title=$LATEST_TITLE" >> $GITHUB_ENV
+        echo "link=$LATEST_LINK" >> $GITHUB_ENV
+        echo "description=$LATEST_DESCRIPTION" >> $GITHUB_ENV
 
     - name: Check for Update and Tweet
       run: |
         [ ! -e previous_state.txt ] && echo "file is not there..." && touch previous_state.txt
         PREVIOUS_STATE=$(cat previous_state.txt)
-        CURRENT_STATE="${{ steps.parse_rss.outputs.link }}"
+        CURRENT_STATE="${LINK}"
+
         # Check if there is an update
-        if [ "$PREVIOUS_STATE" != "$CURRENT_STATE" ]; then
+        if [[ "$PREVIOUS_STATE" != "$CURRENT_STATE" ]]; then
           echo "Updates found!"
           # Update the previous state
           echo "$CURRENT_STATE" > previous_state.txt
           # Tweet the content
-          TITLE="${{ steps.parse_rss.outputs.title }}"
-          LINK="${{ steps.parse_rss.outputs.link }}"
-          DESCRIPTION="${{ steps.parse_rss.outputs.description }}"
+          TITLE="${TITLE}"
+          LINK="${LINK}"
+          DESCRIPTION="${DESCRIPTION}"
+
           echo "New Blog Post: $TITLE - $DESCRIPTION $LINK"
         else
           echo "No updates."

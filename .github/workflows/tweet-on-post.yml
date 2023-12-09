@@ -30,7 +30,11 @@ jobs:
         [[ $LATEST_ITEM =~ '<link>(.*?)<\/link>' ]] && LATEST_LINK="${BASH_REMATCH[1]}"
         [[ $LATEST_ITEM =~ '<description>(.*?)<\/description>' ]] && LATEST_DESCRIPTION="${BASH_REMATCH[1]}"
 
+        echo "title=$LATEST_TITLE"
+        echo "link=$LATEST_LINK"
+        echo "description=$LATEST_DESCRIPTION"
          # Set outputs using echo statements
+        echo "TESTINGNGNGNGNGN" >> $GITHUB_OUTPUT
         echo "title=$LATEST_TITLE" >> $GITHUB_OUTPUT
         echo "link=$LATEST_LINK" >> $GITHUB_OUTPUT
         echo "description=$LATEST_DESCRIPTION" >> $GITHUB_OUTPUT

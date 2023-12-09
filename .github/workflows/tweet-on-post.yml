@@ -36,6 +36,7 @@ jobs:
 
     - name: Check for Update and Tweet
       run: |
+        [ ! -e previous_state.txt ] && echo "file is not there..." && touch previous_state.txt
         PREVIOUS_STATE=$(cat previous_state.txt)
         CURRENT_STATE="${{ steps.parse_rss.outputs.link }}"
         # Check if there is an update

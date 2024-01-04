@@ -6,11 +6,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 ## :name_badge: I'm a Cyber Security researcher and Developer!
 <img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
 
-- :peach: I'm currently learning linux kernel modules and Web Application pentest
+- :peach: I'm currently learning linux application programing 
 - :tangerine: I often lose my temper doing bug bounty
-- :tomato: I'm looking for help on my latest project xss_bomb
-- :watermelon: You can reach me via linkedin
-- :meat_on_bone: Fun fact, I love linux \o/
+- :tomato: I'm looking for help on my latest project p3ng0s and havoc-store
+- :watermelon: You can reach me via linkedin or twitter
+- :meat_on_bone: Fun fact, I love linux so much I made p3ng0s \o/
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->

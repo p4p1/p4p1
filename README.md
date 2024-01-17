@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Origins of my passions for infosec](https://leosmith.wtf/blog/leosmith-wtf-origins.html)
 - [Touch controls on dwm](https://leosmith.wtf/blog/dwm-gestures.html)
 - [Havoc extensions in-depth](https://leosmith.wtf/blog/havoc-extentions-indepth.html)
 - [Virtual keyboards on dwm](https://leosmith.wtf/blog/dwm-keyboard-patch.html)
 - [Ultimate Entertainment System](https://leosmith.wtf/blog/batocera-linux.html)
-- [Ultimate Home Lab](https://leosmith.wtf/blog/ultimate-home-lab.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

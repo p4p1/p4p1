@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Checklists in Cybersecurity](https://leosmith.wtf/blog/checklists-cybersecurity.html)
 - [GLInet-CTF](https://leosmith.wtf/blog/glinet-ctf.html)
 - [Doom Modding](https://leosmith.wtf/blog/doom-eyelander.html)
 - [HTB prolabs review](https://leosmith.wtf/blog/big-boy-cert.html)
 - [Origins of my passions for infosec](https://leosmith.wtf/blog/leosmith-wtf-origins.html)
-- [Touch controls on dwm](https://leosmith.wtf/blog/dwm-gestures.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

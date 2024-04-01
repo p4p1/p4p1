@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Social-Analyzer OSINT tool exploit](https://leosmith.wtf/blog/random_xss_tools.html)
 - [Advanced Wi-Fi Pineapple phishing](https://leosmith.wtf/blog/wifi-pineapple-advanced-phishing.html)
 - [Ultimate Resume Builder](https://leosmith.wtf/blog/ultimate-resume-builder.html)
 - [Checklists in Cybersecurity](https://leosmith.wtf/blog/checklists-cybersecurity.html)
 - [GLInet-CTF](https://leosmith.wtf/blog/glinet-ctf.html)
-- [Doom Modding](https://leosmith.wtf/blog/doom-eyelander.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

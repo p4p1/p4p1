@@ -6,7 +6,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 ## :name_badge: I'm a Cyber Security researcher and Developer!
 <img width="25%" align="right" src="https://media1.tenor.com/m/5XNfYyBGDNgAAAAd/wazappp.gif" />
 
-- :peach: I'm currently learning linux application programing 
+- :peach: I'm currently hatting on offsec
 - :tangerine: I often lose my temper doing bug bounty
 - :tomato: I'm looking for help on my latest project p3ng0s and havoc-store
 - :watermelon: You can reach me via linkedin or twitter

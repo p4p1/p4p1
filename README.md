@@ -4,7 +4,7 @@
 Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :name_badge: I'm a Cyber Security researcher and Developer!
-<img width="30%" align="right" src="https://media1.tenor.com/m/Pde-UbTlJ-gAAAAC/roi-hennock-lourd-l%C3%A9ger-professionel.gif" />
+<img width="30%" align="right" src="https://media1.tenor.com/m/zCKJxADKHssAAAAC/rainbow-mexican.gif" />
 
 - :peach: I'm currently casually hatting on offsec
 - :tangerine: I often lose my temper doing bug bounty

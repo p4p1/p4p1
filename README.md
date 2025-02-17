@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Insecure AI usage](https://leosmith.wtf/blog/generating-code-ai.html)
 - [PWA phishing](https://leosmith.wtf/blog/pwa-phishing.html)
 - [Extending Havoc payloads through metasploit](https://leosmith.wtf/blog/metasploit-and-havoc.html)
 - [Basic AntiVirus Evasion](https://leosmith.wtf/blog/basic-antivirus-evasion.html)
 - [Social-Analyzer OSINT tool exploit](https://leosmith.wtf/blog/random_xss_tools.html)
-- [Advanced Wi-Fi Pineapple phishing](https://leosmith.wtf/blog/wifi-pineapple-advanced-phishing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

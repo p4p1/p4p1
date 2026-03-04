@@ -7,7 +7,7 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 <img width="30%" align="right" src="https://media1.tenor.com/m/zCKJxADKHssAAAAC/rainbow-mexican.gif" />
 
 - :peach: I'm currently casually babysititng
-- :tangerine: I often lose my temper doing bug bounty
+- :tangerine: I often lose my temper doing Hack The Box
 - :tomato: I'm looking for help on my latest project p3ng0s
 - :watermelon: You can reach me via linkedin
 - :meat_on_bone: Fun fact, I love linux so much I made p3ng0s \o/

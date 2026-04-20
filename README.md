@@ -14,11 +14,11 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :notebook: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [p3ng0s devlog #3: Dropbox](https://leosmith.wtf/blog/p3ng0s-devlog-dropbox.html)
 - [p3ng0s devlog #2: Cracking hashes](https://leosmith.wtf/blog/p3ng0s-devlog-hashcat.html)
 - [p3ng0s devlog #1: Linux pentest automation.](https://leosmith.wtf/blog/p3ng0s-devlog-archconf.html)
 - [Creating arch AUR package](https://leosmith.wtf/blog/creating-arch-aur-package.html)
 - [Citrix Pentesting](https://leosmith.wtf/blog/citrix-pentest.html)
-- [Offsec Review](https://leosmith.wtf/blog/offsec-review.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)
-
 <img src="https://media1.tenor.com/m/v8vfvULu0n8AAAAC/gangstas-whats-up-guys.gif" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)
 
 Red teaming and custom tooling is what I'm about. From the country of the bagette and stinky cheese with a pinch of tea and burnt toast.
 

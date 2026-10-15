@@ -1,16 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)
 
 
-Let's hope my blind XSS description payload hits somewhere :penguin:
-
-## :name_badge: I'm a Cyber Security researcher and Developer!
-
-
-- :peach: I'm currently casually babysititng
-- :tangerine: I often lose my temper doing Hack The Box
-- :tomato: I'm looking for help on my latest project p3ng0s
-- :watermelon: You can reach me via linkedin
-- :meat_on_bone: Fun fact, I love linux so much I made p3ng0s \o/
+Red teaming and custom tooling is what I'm about. From the country of the bagette and stinky cheese with a pinch of tea and burnt toast.
 
 ## :notebook: Latest blog posts
 <img width="30%" align="right" src="assets/alkpote-philippe-katerine.gif" />
@@ -23,9 +14,13 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - [p3ng0s devlog #2: Cracking hashes](https://leosmith.wtf/blog/p3ng0s-devlog-hashcat.html)
 <!-- BLOG-POST-LIST:END -->
 
----
+## :chicken: Meet the zoo
 
-[![p4p1's tryhackme stats](https://raw.githubusercontent.com/p4p1/p4p1/master/assets/thm_propic.png)][tryhackme]
+| p4p1 | p3ng0s | b0mb | sk4r4b |
+|-----| -------- | -----| ------ |
+| <img width="10%" src="icons/p4p1.png" /> | <img width="10%" src="icons/p3ng0s.png" /> | <img width="10%" src="icons/b0mb.png" /> | <img width="10%" src="icons/sk4r4b.png" /> |
+| The blog | The OS | The server | The progamming language |
+
 
 
 <!--

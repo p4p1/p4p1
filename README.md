@@ -18,7 +18,7 @@ Red teaming and custom tooling is what I'm about. From the country of the bagett
 
 | p4p1 | p3ng0s | b0mb | sk4r4b |
 |-----| -------- | -----| ------ |
-| <img width="10%" src="icons/p4p1.png" /> | <img width="10%" src="icons/p3ng0s.png" /> | <img width="10%" src="icons/b0mb.png" /> | <img width="10%" src="icons/sk4r4b.png" /> |
+| <img width="10%" src="assets/p4p1.png" /> | <img width="10%" src="assets/p3ng0s.png" /> | <img width="10%" src="assets/b0mb.png" /> | <img width="10%" src="assets/sk4r4b.png" /> |
 | The blog | The OS | The server | The progamming language |
 
 

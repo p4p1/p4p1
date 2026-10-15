@@ -4,7 +4,7 @@
 Let's hope my blind XSS description payload hits somewhere :penguin:
 
 ## :name_badge: I'm a Cyber Security researcher and Developer!
-<img width="30%" align="right" src="https://media1.tenor.com/m/zCKJxADKHssAAAAC/rainbow-mexican.gif" />
+
 
 - :peach: I'm currently casually babysititng
 - :tangerine: I often lose my temper doing Hack The Box
@@ -13,6 +13,8 @@ Let's hope my blind XSS description payload hits somewhere :penguin:
 - :meat_on_bone: Fun fact, I love linux so much I made p3ng0s \o/
 
 ## :notebook: Latest blog posts
+<img width="30%" align="right" src="assets/alkpote-philippe-katerine.gif" />
+
 <!-- BLOG-POST-LIST:START -->
 - [NTDLL-reconstruction](https://leosmith.wtf/blog/ntdll_reconstruction.html)
 - [Building actually dangerous malware](https://leosmith.wtf/blog/building-dangerous-malware.html)

@@ -23,7 +23,7 @@ Red teaming and custom tooling is what I'm about. From the country of the bagett
 | [The blog](https://leosmith.wtf/) | [The OS](https://leosmith.wtf/rice/) | [The server](https://github.com/dr0pz0n3) | [The progamming language](https://github.com/sk4r4b) |
 
 >[!IMPORTANT]
-> You can buy stickers of these icons [here](https://www.redbubble.com/people/p4piiii/shop)
+> You can support me by getting stickers of the projects [here](https://www.redbubble.com/people/p4piiii/shop)
 
 <!--
 **p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

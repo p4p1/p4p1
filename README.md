@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)
 
+<img src="https://media1.tenor.com/m/v8vfvULu0n8AAAAC/gangstas-whats-up-guys.gif" />
 
 Red teaming and custom tooling is what I'm about. From the country of the bagette and stinky cheese with a pinch of tea and burnt toast.
 
@@ -18,8 +19,8 @@ Red teaming and custom tooling is what I'm about. From the country of the bagett
 
 | p4p1 | p3ng0s | b0mb | sk4r4b |
 |-----| -------- | -----| ------ |
-| <img width="10%" src="assets/p4p1.png" /> | <img width="10%" src="assets/p3ng0s.png" /> | <img width="10%" src="assets/b0mb.png" /> | <img width="10%" src="assets/sk4r4b.png" /> |
-| The blog | The OS | The server | The progamming language |
+| [<img src="assets/p4p1.png" />](https://leosmith.wtf) | [<img src="assets/p3ng0s.png" />](https://leosmith.wtf/rice/) | [<img src="assets/b0mb.png" />](https://github.com/dr0pz0n3) | [<img src="assets/sk4r4b.png" />](https://github.com/sk4r4b) |
+| [The blog](https://leosmith.wtf/) | [The OS](https://leosmith.wtf/rice/) | [The server](https://github.com/dr0pz0n3) | [The progamming language](https://github.com/sk4r4b) |
 
 
 
